@@ -10,11 +10,12 @@ This is a Brave browser extension that generates a QR code image of the URL of t
 
 ## Installation
 
+1. Download the ZIP file of this repo, then unzip it so you have the extension folder (the folder must contain manifest.json).
 1. Open Brave browser
-2. Go to chrome://extensions/
-3. Enable "Developer mode"
-4. Click "Load unpacked"
-5. Select this folder
+1. Go to chrome://extensions/
+1. Enable "Developer mode"
+1. Click "Load unpacked"
+1. Select this folder
 
 ## Usage
 
